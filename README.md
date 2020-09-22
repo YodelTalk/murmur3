@@ -1,3 +1,6 @@
+| :exclamation: This is a temporary fork of robinheghan/murmur3. This is required as the current package has dependency issues. |
+|-----------------------------------------|
+
 # Murmur 3
 
 This is an elm implementation of the murmur 3 hash function.
